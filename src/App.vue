@@ -1,5 +1,7 @@
 <script setup lang="ts"></script>
 
-<template></template>
+<template>
+    <div>default-project</div>
+</template>
 
 <style scoped></style>

@@ -1,1 +1,10 @@
-### Interfaces are used to define the structure of objects and establish contracts between parts of your code.
+### Types are used to define custom data structures and types, allowing for more flexibility and versatility.
+
+```
+type Point = {
+  x: number;
+  y: number;
+};
+
+const point: Point = { x: 1, y: 2 };
+```
