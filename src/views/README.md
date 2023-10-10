@@ -13,5 +13,5 @@ Example view component structure:
 
 <style scoped lang="scss">
     <!-- Your views or pages specific styles -->
- </style>
+</style>
 ```
