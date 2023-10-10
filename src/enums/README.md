@@ -1,4 +1,4 @@
-### Enums are used to define a set of named constant values.
+Enums are used to define a set of named constant values.
 
 ```
 enum UserType {

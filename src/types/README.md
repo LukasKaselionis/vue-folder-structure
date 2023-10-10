@@ -1,4 +1,4 @@
-### Types are used to define custom data structures and types, allowing for more flexibility and versatility.
+Types are used to define custom data structures and types, allowing for more flexibility and versatility.
 
 ```
 type Point = {
