@@ -12,4 +12,6 @@ const john: Person = {
   lastName: "Doe",
   age: 30,
 };
+
+export default Person;
 ```

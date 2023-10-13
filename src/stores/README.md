@@ -8,7 +8,7 @@ the first argument after "use" is a name which is a unique id of the store.
 ```
 import { defineStore } from "pinia";
 
-export const useUserStore = defineStore("user", {
+export const useUserStore = defineStore("user", () => {
   const username = ref("");
   const getUsername = computed(() => username.value);
   const setUsername = (username: string): void => {
